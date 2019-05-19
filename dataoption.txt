@@ -1,0 +1,30 @@
+https://appdividend.com/2019/03/09/laravel-5-8-form-validation-tutorial-with-example/
+
+Step 1: Installation 
+
+composer create-project --prefer-dist laravel/laravel blog
+
+php artisan serve
+
+Step 2 : Bb setup in .env
+
+Datat Base username and password setting 
+
+Step 3: controler create 
+
+
+php artisan make:controller FormController
+
+Step 4:
+
+the we have  to set route for form controller
+
+Step 5 :create table 
+
+php artisan make:model Form -m
+
+php artisan migrate
+
+step 6: appserviceprovide.php
+
+Schema::defaultStringLength(191);
