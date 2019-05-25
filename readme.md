@@ -27,8 +27,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-
 In this application, you will see very basic crud operation with laravel. I am going to show you step by step from scratch so, i will better to understand if you are new in laravel. So just follow listed steps:
 
 ### Installing Laravel
@@ -40,7 +38,7 @@ Laravel utilizes [Composer](https://getcomposer.org/) to manage its dependencies
 First of all we need to get fresh Laravel  application using bellow command, So open your terminal OR command prompt and run bellow command:
 
 ~~~
-composer create-project --prefer-dist laravel/laravel blog
+composer create-project --prefer-dist laravel/laravel IT-assets-directory
 ~~~
 
 ## License
