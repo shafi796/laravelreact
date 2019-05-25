@@ -25,15 +25,23 @@ The tool use  CRUD functionality (Create Read Update Delete) for an IT asset obj
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-## Contributing
+In this application, you will see very basic crud operation with laravel. I am going to show you step by step from scratch so, i will better to understand if you are new in laravel. So just follow listed steps:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Installing Laravel
 
-## Security Vulnerabilities
+Laravel utilizes [Composer](https://getcomposer.org/) to manage its dependencies. So, before using Laravel, make sure you have Composer installed on your machine.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Via Laravel Installer
+
+First of all we need to get fresh Laravel  application using bellow command, So open your terminal OR command prompt and run bellow command:
+
+~~~
+composer create-project --prefer-dist laravel/laravel blog
+~~~
 
 ## License
 
