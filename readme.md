@@ -33,8 +33,6 @@ In this application, you will see very basic crud operation with laravel. I am g
 
 Laravel utilizes [Composer](https://getcomposer.org/) to manage its dependencies. So, before using Laravel, make sure you have Composer installed on your machine.
 
-### Via Laravel Installer
-
 First of all we need to get fresh Laravel  application using bellow command, So open your terminal OR command prompt and run bellow command:
 
 ~~~
