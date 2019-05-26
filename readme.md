@@ -18,6 +18,8 @@ In this repository, i want to share with you how to create crud(Create Read Upda
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+[React](https://reactjs.org/) is a JavaScript library for building user interfaces
+
 
 ## License
 
