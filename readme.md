@@ -1,15 +1,8 @@
-# IT Assets Directory Application 
+# Simple CRUD Application Using Laravel and ReactJS 
 
-IT assets directory is the application for  provide the list of available assets in the IT (laptops, phones, desktops, ...) with an overview of their status (available, in use, ...).
+In this repository, i want to share with you how to create crud(Create Read Update Delete) application with react js in PHP Laravel framework. In this example you can learn how to built setup for laravel reactjs application, I also used axios post request, get request, put request and delete request for insert update delete application.
 
-The tool use  CRUD functionality (Create Read Update Delete) for an IT asset object, the properties of the asset can contain:
 
-* Label
-* Description
-* Type (Laptop, mobile, ...)
-* Status (In-use, available, ...)
-* Initial Purchase Date
-* Current owner
 
 ## Built With
 
@@ -25,19 +18,6 @@ The tool use  CRUD functionality (Create Read Update Delete) for an IT asset obj
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Getting Started
-
-In this application, you will see very basic crud operation with laravel. I am going to show you step by step from scratch so, i will better to understand if you are new in laravel. So just follow listed steps:
-
-### Installing Laravel
-
-Laravel utilizes [Composer](https://getcomposer.org/) to manage its dependencies. So, before using Laravel, make sure you have Composer installed on your machine.
-
-First of all we need to get fresh Laravel  application using bellow command, So open your terminal OR command prompt and run bellow command:
-
-~~~
-composer create-project --prefer-dist laravel/laravel IT-assets-directory
-~~~
 
 ## License
 
